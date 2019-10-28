@@ -1,3 +1,3 @@
 
-# Demo projects for various machine learning techniques
+# Machine learning techniques for forecasting Seattle Housing prices.
 
