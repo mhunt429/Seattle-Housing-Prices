@@ -1,3 +1,3 @@
-# machine_learning
-Demo projects for various machine learning techniques
+
+# Demo projects for various machine learning techniques
 
